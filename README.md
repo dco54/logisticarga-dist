@@ -1,2 +1,2 @@
 # logisticarga-dist
-aplicativo de gestion de cargas
+Repositorio oficial para las actualizaciones de LogistiCarga
